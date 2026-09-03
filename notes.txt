@@ -1,0 +1,28 @@
+CHAPTER 1
+---------
+bus
+- a communication system
+
+I/O devices
+- input and output devices 
+
+
+data TYPES and how much memory they take
+- short - 2 bytes
+- int and float - 4 bytes
+- long & double - 8 bytes
+
+DMA
+- copying data from memory?
+
+virtual memory 
+- abstraction that provides each process with the illusion that each process has exclusive use of the memory 
+
+maloc & free()
+- functions
+- working with memory in the heap
+
+heap
+- heap can grow and shrink
+- size not fixed
+- 
