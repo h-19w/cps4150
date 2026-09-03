@@ -1,2 +1,2 @@
-# CPS_4150
+# cps4150
 computer architecture 
